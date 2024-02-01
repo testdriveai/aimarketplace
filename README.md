@@ -1,2 +1,2 @@
 # aimarketplace
-Creating a customizable template for an A.I. service-based marketplace that, including the design template, code and make it customizable and easy to deploy. 
+Developing an easy-to-deploy, customizable template for an AI service marketplace, including design and code.
