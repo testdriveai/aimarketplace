@@ -71,7 +71,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Susan Rodriguez (Q-Rah)** - *Initial work* - [testdriveai](link-to-your-profile)
+* **Susan Rodriguez (Q-Rah)** - *Initial work* - [testdriveai](https://github.com/testdriveai)
 
 See also the list of [contributors](link-to-contributors-page) who participated in this project.
 
